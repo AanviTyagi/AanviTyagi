@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aanvi 👋
 
-<!--
-**AanviTyagi/AanviTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, scalable and user-centric web experiences.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- TrippinAI
+- AI-powered travel experiences
+- Next.js & React applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Frontend:
+React.js • Next.js • TailwindCSS • GSAP
+
+Languages:
+JavaScript • Python
+
+Tools:
+Git • GitHub • Figma • Vercel
+
+## Featured Projects
+
+### TrippinAI
+AI-powered travel planning platform.
+
+### Waitz
+Campus queue automation system built with MERN.
+
+### NeuroCode
+VS Code Plugin UI Prototype.
+
+### ReproCare
+Reproductive healthcare platform.
+
+## GitHub Stats
+
+[stats cards]
+
+## Connect
+
+LinkedIn : https://www.linkedin.com/in/aanvityagi/
+Email : tyagiaanvi8@gmail.com
