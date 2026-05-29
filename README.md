@@ -1,4 +1,3 @@
-```md
 # Hey, I'm Aanvi 👋
 
 ### Frontend Developer → UI/UX Designer → Building AI-Powered Products
@@ -13,8 +12,7 @@ Currently, I'm building travel-tech experiences where design, engineering, and A
 
 ## 🚀 What I'm Building
 
-### TrippinAI
-
+Frontend Developer @ TrippinAI
 An AI-powered travel platform focused on helping people discover, plan, and experience journeys in a more meaningful way.
 
 **Current Focus**
@@ -41,22 +39,9 @@ Every project I build aims to balance aesthetics, usability, and engineering qua
 ---
 
 ## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+React • Next.js • JavaScript • TypeScript • TailwindCSS • GSAP • Python • Figma • Git
 
 ---
 
@@ -129,11 +114,10 @@ A VS Code plugin UI prototype designed to enhance developer productivity.
 
 📧 Email: tyagiaanvi8@gmail.com
 
-💼 LinkedIn: [https://www.linkedin.com/in/aanvityagi/]
+💼 LinkedIn: [Aanvi Tyagi](https://www.linkedin.com/in/aanvityagi/)
 
 🐙 GitHub: https://github.com/AanviTyagi
 
 ---
 
 > Building products where thoughtful design meets scalable engineering.
-```
