@@ -38,7 +38,6 @@ Every project I build aims to balance aesthetics, usability, and engineering qua
 
 ---
 
-## 🛠 Tech Stack
 ## ⚡ Tech Stack
 
 React • Next.js • JavaScript • TypeScript • TailwindCSS • GSAP • Python • Figma • Git
@@ -99,14 +98,6 @@ A VS Code plugin UI prototype designed to enhance developer productivity.
 - Design Systems
 - Frontend Performance Optimization
 - Product Thinking
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AanviTyagi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AanviTyagi&layout=compact&theme=tokyonight)
 
 ---
 
